@@ -1,0 +1,13 @@
+    <SafeAreaView style={{backgroundColor: '#FFFFFF'}}>
+      <ScrollView>
+        <Text style={{color:'#000000'}}>{windowDimensions.height},{windowDimensions.width},{windowDimensions.scale}</Text>
+        <Mapsvg width='100%'/>
+        <Tramicon width={15} height={15} style={{position:'absolute',top:'10%',left:'32%'}} />
+        <FlatList
+        data={trams}
+        renderItem={({item}) => (
+          <Tramicon width={15} height={15} style={getPosition(item)}/>
+        )}/>
+        <Text style={{color:'black'}}>{JSON.stringify(trams)}</Text>
+      </ScrollView>
+    </SafeAreaView>

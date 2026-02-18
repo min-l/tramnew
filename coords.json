@@ -1,0 +1,292 @@
+{
+    "Bury":{
+        "Radcliffe":["m33.5 35","v22.5"]
+    },
+    "Radcliffe":{
+        "Whitefield":["m33.5 57.5","v22.5"]
+    },
+    "Whitefield":{
+        "Besses O\u2019 Th\u2019 Barn":["m33.5 80","v22.5"]
+    },
+    "Besses O\u2019 Th\u2019 Barn":{
+        "Prestwich":["m33.5 102.5","v22.5"]
+    },
+    "Prestwich":{
+        "Heaton Park":["m33.5 125","v22.5"]
+    },
+    "Heaton Park":{
+        "Bowker Vale":["m33.5 147.5","v22.5"]
+    },
+    "Bowker Vale":{
+        "Crumpsall":["m33.5 170","v12.5"]
+    },
+    "Crumpsall":{
+        "Abraham Moss":["m33.5 182.5","v12.5"]
+    },
+    "Abraham Moss":{
+        "Queens Road":["m33.5 195","v13.5"]
+    },
+    "Queens Road":{
+        "Victoria":["m33.5 208.5","v2.5","d4.5 4.5","h5","r4.5 4.5"]
+    },
+    "Victoria":{
+        "Shudehill":["m47 220","v10"],
+        "Exchange Square":["m49.5 220","d-4.5 4.5","h-11","r-4.5 4.5","v11"]
+    },
+    "Shudehill":{
+        "Market Street":["m47 230","v10"]
+    },
+    "Market Street":{
+        "St Peter's Square":["m46.5 240","v25"],
+        "Piccadilly Gardens":["m48 240","v5","d5 5","h10"]
+    },
+    "Exchange Square":{
+        "St Peter's Square":["m29.5 240","v7","d4.5 4.5","h6","r4.5 4.5","v9"]
+    },
+    "Ashton-Under-Lyne":{
+        "Ashton West":["m93.5 99","v11"]
+    },
+    "Ashton West":{
+        "Ashton Moss":["m93.5 110","v12"]
+    },
+    "Ashton Moss":{
+        "Audenshaw":["m93.5 122","v12"]
+    },
+    "Audenshaw":{
+        "Droylsden":["m93.5 134","v12"]
+    },
+    "Droylsden":{
+        "Cemetery Road":["m93.5 146","v12"]
+    },
+    "Cemetery Road":{
+        "Edge Lane":["m93.5 158","v12"]
+    },
+    "Edge Lane":{
+        "Clayton Hall":["m93.5 170","v10"]
+    },
+    "Clayton Hall":{
+        "Velopark":["m93.5 180","v10"]
+    },
+    "Velopark":{
+        "Etihad Campus":["m93.5 190","v10"]
+    },
+    "Etihad Campus":{
+        "Holt Town":["m93.5 200","v10"]
+    },
+    "Holt Town":{
+        "New Islington":["m93.5 210","v21"]
+    },
+    "New Islington":{
+        "Piccadilly":["m93.5 231","v16","d-5 5","h-10.5"]
+    },
+    "Piccadilly":{
+        "Piccadilly Gardens":["m78 251","h-15"]
+    },
+    "Piccadilly Gardens":{
+        "Piccadilly":["m63 250","h15"],
+        "St Peter's Square":["m63 251.5","h-10","r-4.5 4.5","v9"]
+    },
+    "St Peter's Square":{
+        "Deansgate - Castlefield":["m46.5 265","v10"]
+    },
+    "Deansgate - Castlefield":{
+        "Cornbrook":["m47 275","v10"]
+    },
+    "Cornbrook":{
+        "Pomona":["m49.5 285","d-4.5 4.5","h-15","r-4.5 4.5","v3"],
+        "Trafford Bar":["m46 285","v12"]
+    },
+    "Pomona":{
+        "Exchange Quay":["m25 297","v5","d-5 5","h-10","r-5 5","v10"],
+        "Wharfside":["m26 297","v5","d5 5","h3","r5 5","v12"]
+    },
+    "Exchange Quay":{
+        "Salford Quays":["m5 322","v10"]
+    },
+    "Salford Quays":{
+        "Anchorage":["m5 332","v10"]
+    },
+    "Anchorage":{
+        "Harbour City":["m5 342","v10"]
+    },
+    "Harbour City":{
+        "Broadway":["m5 352","v20"],
+        "MediaCityUK":["m5 352","v5","d5 5","h3"]
+    },
+    "MediaCityUK":{
+        "Broadway":["m13 362","h-3","r-5 5","v5"]
+    },
+    "Broadway":{
+        "Langworthy":["m5 372","v10"]
+    },
+    "Langworthy":{
+        "Weaste":["m5 382","v10"]
+    },
+    "Weaste":{
+        "Ladywell":["m5 392","v10"]
+    },
+    "Ladywell":{
+        "Eccles":["m5 402","v10"]
+    },
+    "Wharfside":{
+        "Imperial War Museum":["m39 324","v32"]
+    },
+    "Imperial War Museum":{
+        "Village":["m39 356","v32"]
+    },
+    "Village":{
+        "Parkway":["m39 388","v32"]
+    },
+    "Parkway":{
+        "Barton Dock Road":["m39 420","v5","d-5 5","h-20","r-5 5","v10"]
+    },
+    "Barton Dock Road":{
+        "The Trafford Centre":["m9 445","v15"]
+    },
+    "Trafford Bar":{
+        "Old Trafford":["m47.5 297","v70"],
+        "Firswood":["m45 297","v7","d4 4","h30","r4 4","v36"]
+    },
+    "Old Trafford":{
+        "Stretford":["m47.5 367","v53"]
+    },
+    "Stretford":{
+        "Dane Road":["m47.5 420","v30"]
+    },
+    "Dane Road":{
+        "Sale":["m47.5 450","v11","d-4.5 4.5","h-10","r-4.5 4.5"]
+    },
+    "Sale":{
+        "Brooklands":["m28.5 470","v20"]
+    },
+    "Brooklands":{
+        "Timperley":["m28.5 490","v15"]
+    },
+    "Timperley":{
+        "Navigation Road":["m28.5 505","v15"]
+    },
+    "Navigation Road":{
+        "Altrincham":["m28.5 520","v15"]
+    },
+    "Firswood":{
+        "Chorlton":["m83 348","v36"]
+    },
+    "Chorlton":{
+        "St Werburgh\u2019s Road":["m83 384","v36"]
+    },
+    "St Werburgh\u2019s Road":{
+        "Withington":["m82.5 420","v5","d-4.5 4.5","h-15","r-4.5 4.5","v10"],
+        "Barlow Moor Road":["m84 420","h5.5"]
+    },
+    "Withington":{
+        "Burton Road":["m58.5 444","v10"]
+    },
+    "Burton Road":{
+        "West Didsbury":["m58.5 454","v10"]
+    },
+    "West Didsbury":{
+        "Didsbury Village":["m58.5 464","v10"]
+    },
+    "Didsbury Village":{
+        "East Didsbury":["m58.5 474","v10"]
+    },
+    "Barlow Moor Road":{
+        "Sale Water Park":["m89.5 420","r4.5 4.5","v15.5"]
+    },
+    "Sale Water Park":{
+        "Northern Moor":["m94 440","v10"]
+    },
+    "Northern Moor":{
+        "Wythenshawe Park":["m94 450","v10"]
+    },
+    "Wythenshawe Park":{
+        "Moor Road":["m94 460","v10"]
+    },
+    "Moor Road":{
+        "Baguley":["m94 470","v10"]
+    },
+    "Baguley":{
+        "Roundthorn":["m94 480","v10"]
+    },
+    "Roundthorn":{
+        "Martinscroft":["m94 490","v15","d-5 5","h-10"]
+    },
+    "Martinscroft":{
+        "Benchill":["m79 510","h-14"]
+    },
+    "Benchill":{
+        "Crossacres":["m65 510","h-5","r-5 5","v5"]
+    },
+    "Crossacres":{
+        "Wythenshawe Town Centre":["m55 520","v10"]
+    },
+    "Wythenshawe Town Centre":{
+        "Robinswood Road":["m55 530","v10"]
+    },
+    "Robinswood Road":{
+        "Peel Hall":["m55 540","v10"]
+    },
+    "Peel Hall":{
+        "Shadowmoss":["m55 550","v10"]
+    },
+    "Shadowmoss":{
+        "Manchester Airport":["m55 560","v10"]
+    },
+    "Rochdale Town Centre":{
+        "Rochdale Railway Station":["m50 10","v10"]
+    },
+    "Rochdale Railway Station":{
+        "Newbold":["m50 20","v10"]
+    },
+    "Newbold":{
+        "Kingsway Business Park":["m50 30","v10"]
+    },
+    "Kingsway Business Park":{
+        "Milnrow":["m50 40","v10"]
+    },
+    "Milnrow":{
+        "Newhey":["m50 50","v10"]
+    },
+    "Newhey":{
+        "Shaw and Crompton":["m50 60","v10"]
+    },
+    "Shaw and Crompton":{
+        "Derker":["m49.5 70","v10"]
+    },
+    "Derker":{
+        "Oldham Mumps":["m49.5 80","v10"]
+    },
+    "Oldham Mumps":{
+        "Oldham Central":["m49.5 90","v10"]
+    },
+    "Oldham Central":{
+        "Oldham King Street":["m49.5 100","v10"]
+    },
+    "Oldham King Street":{
+        "Westwood":["m49.5 110","v10"]
+    },
+    "Westwood":{
+        "Freehold":["m49.5 120","v10"]
+    },
+    "Freehold":{
+        "South Chadderton":["m49.5 130","v10"]
+    },
+    "South Chadderton":{
+        "Hollinwood":["m49.5 140","v10"]
+    },
+    "Hollinwood":{
+        "Failsworth":["m49.5 150","v10"]
+    },
+    "Failsworth":{
+        "Newton Heath and Moston":["m49.5 160","v10"]
+    },
+    "Newton Heath and Moston":{
+        "Central Park":["m49.5 170","v17"]
+    },
+    "Central Park":{
+        "Monsall":["m49.5 187","v17"]
+    },
+    "Monsall":{
+        "Victoria":["m49.5 204","v16"]
+    }
+}

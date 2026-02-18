@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="2400"
+   viewBox="0 0 100 600"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer3">
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.14921;stroke-opacity:0"
+       id="rect5157-3-3"
+       width="100"
+       height="70"
+       x="0"
+       y="420" />
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.14921;stroke-opacity:0"
+       id="rect5157-3"
+       width="100"
+       height="70"
+       x="0"
+       y="215" />
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-opacity:0"
+       id="rect5157"
+       width="100"
+       height="90"
+       x="0"
+       y="80" />
+  </g>
+  <g
+     id="layer1">
+    <path
+       style="fill:none;stroke:#ffd700;stroke-width:1"
+       d="m 48,220 a 5,5 0 0 0 -5,-5 h -5 a 4,4 0 0 1 -4,-4 V 34.5 M 48,220 v 10 10 5 a 5,5 0 0 0 5,5 h 10 15"
+       id="path402-5-6" />
+    <path
+       style="fill:none;stroke:#800080;stroke-width:1"
+       d="m 48,260 v -4 a 5,5 0 0 1 5,-5 H 78.5 M 48,260 v 37 70 53 41 a 5,5 0 0 1 -5,5 H 33 a 4,4 0 0 0 -4,4 v 65"
+       id="path402-5-6-4-2" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1"
+       d="m 47,220 a 4,4 0 0 0 -4,-4 h -5 a 5,5 0 0 1 -5,-5 V 208.5 195 182.5 170 147.5 125 102.5 80 57.5 35 m 14,185 v 20 20 m 0,0 v 40 120 30 11 a 4,4 0 0 1 -4,4 H 33 a 5,5 0 0 0 -5,5 v 20 15 15 15"
+       id="path402-5-6-6" />
+    <path
+       style="fill:none;stroke:#00008b;stroke-width:1"
+       d="m 46,260 v -40.5 m 0,40.5 v 40 4 a 3,3 0 0 0 3,3 h 30 a 5,5 0 0 1 5,5 v 106 a 2,2 0 0 0 2,2 h 3 a 5,5 0 0 1 5,5 v 15 10 10 10 10 10 15 a 5,5 0 0 1 -5,5 H 79 65 60 a 5,5 0 0 0 -5,5 v 5 10 10 10 10 10"
+       id="path402-5-6-4-2-1" />
+    <path
+       style="fill:none;stroke:#ffc0cb;stroke-width:1"
+       d="m 50,10 v 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 17 17 16 a 5,5 0 0 1 -5,5 H 34 a 4,4 0 0 0 -4,4 v 11 7 a 4,4 0 0 0 4,4 h 6 a 5,5 0 0 1 5,5 v 4 m 0,0 v 40 4 a 4,4 0 0 0 4,4 h 30 a 4,4 0 0 1 4,4 v 108 5 a 5,5 0 0 1 -5,5 H 63 a 4,4 0 0 0 -4,4 v 10 10 10 10 10"
+       id="path402" />
+    <path
+       style="fill:none;stroke:#a52a2a;stroke-width:1"
+       d="m 49,70 v 150 a 4,4 0 0 1 -4,4 H 34 a 5,5 0 0 0 -5,5 v 11 7 a 5,5 0 0 0 5,5 h 6 a 4,4 0 0 1 4,4 v 4 m 0,0 v 5 35 4 a 5,5 0 0 0 5,5 h 30 a 3,3 0 0 1 3,3 v 36 36 36 5 a 4,4 0 0 1 -4,4 H 63 a 5,5 0 0 0 -5,5 v 50"
+       id="path402-5" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1"
+       d="m 50,275 v 10 a 5,5 0 0 1 -5,5 H 30 a 4,4 0 0 0 -4,4 v 8 a 5,5 0 0 0 5,5 h 3 a 5,5 0 0 1 5,5 v 12 32 32 32 5 a 5,5 0 0 1 -5,5 H 14 a 5,5 0 0 0 -5,5 v 10 15"
+       id="path402-5-6-4-2-3" />
+    <path
+       style="fill:none;stroke:#add8e6;stroke-width:1"
+       d="m 49,260 v -4 a 4,4 0 0 1 4,-4 h 25.5 10 a 5,5 0 0 0 5,-5 V 231 215 210 200 190 180 170 158 146 134 122 110 99 M 49,260 v 25 a 4,4 0 0 1 -4,4 H 30 a 5,5 0 0 0 -5,5 v 3 5 a 5,5 0 0 1 -5,5 H 10 a 5,5 0 0 0 -5,5 v 10 10 10 10 5 a 5,5 0 0 0 5,5 h 3 -3 a 5,5 0 0 0 -5,5 v -10 15 10 10 10 10"
+       id="path402-5-6-4" />
+  </g>
+  <g
+     id="layer4"
+     style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1">
+    <path
+       d="m 0,0 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="proto-single"
+       style="display:none" />
+    <path
+       d="m 0,0 a 0.65,0.65 0 1 0 0,0.50001 h 0.1 a 0.65,0.65 0 0 0 1.2,0 H 1.4 A 0.250005,0.250005 0 0 0 1.4,0 H 1.3 A 0.65,0.65 0 0 0 0.1,0 Z"
+       id="proto-double"
+       style="display:none" />
+    <path
+       d="m 33,35.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-bury"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 33,57.75 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-radcliffe"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 33,80.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-whitefield"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 33,102.75 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-besses-o-th-barn"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 33,125.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-prestwich"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 33,147.75 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-heaton-park"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 33,170.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-bowker-vale"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 33,182.75 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-crumpsall"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 33,195.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-abraham-moss"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 33,208.75 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-queens-road"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 29,240.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-exchange-square"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50.5,9.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-rochdale-town-centre"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50.5,19.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-rochdale-railway-station"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50.5,29.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-newbold"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50.5,39.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-kingsway-business-park"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50.5,49.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-milnrow"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50.5,59.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-newhey"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50,69.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-shaw-and-crompton"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50,79.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-derker"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50,89.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-oldham-mumps"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50,99.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-oldham-central"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50,109.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-oldham-king-street"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50,119.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-westwood"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50,129.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-freehold"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50,139.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-south-chadderton"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50,149.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-hollinwood"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50,159.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-failsworth"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50,169.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-newton-heath-and-moston"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50,186.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-central-park"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 50,203.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-monsall"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93,99.25 a 0.65,0.65 0 1 0 0,-0.5 v 0 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-ashton-under-lyne"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93,110.25 a 0.65,0.65 0 1 0 0,-0.5 v 0 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-ashton-west"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93,122.25 a 0.65,0.65 0 1 0 0,-0.5 v 0 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-ashton-moss"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93,134.25 a 0.65,0.65 0 1 0 0,-0.5 v 0 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-audenshaw"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93,146.25 a 0.65,0.65 0 1 0 0,-0.5 v 0 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-droylsden"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93,158.25 a 0.65,0.65 0 1 0 0,-0.5 v 0 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-cemetary-road"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93,170.25 a 0.65,0.65 0 1 0 0,-0.5 v 0 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-edge-lane"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93,180.25 a 0.65,0.65 0 1 0 0,-0.5 v 0 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-clayton-hall"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93,190.25 a 0.65,0.65 0 1 0 0,-0.5 v 0 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-velopark"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93,200.25 a 0.65,0.65 0 1 0 0,-0.5 v 0 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-etihad-campus"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93,210.25 a 0.65,0.65 0 1 0 0,-0.5 v 0 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-holt-town"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93,231.25 a 0.65,0.65 0 1 0 0,-0.5 v 0 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-new-islington"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 25,297.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-pomona"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 5.5,321.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-exchange-quay"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 5.5,331.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-salford-quays"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 5.5,341.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-anchorage"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 5.5,351.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-harbour-city"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 13.5,361.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-media-city-uk"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 5.5,371.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-broadway"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 5.5,381.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-langworthy"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 5.5,391.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-weaste"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 5.5,401.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-ladywell"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 5.5,411.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-eccles"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 38.5,324.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-wharfside"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 38.5,356.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-imperial-war-museum"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 38.5,388.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-village"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 38.5,420.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-parkway"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 9.5,444.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-barton-dock-road"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 9.5,459.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-the-trafford-centre"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 48,366.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-old-trafford"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 48,419.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-stretford"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 47,450.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-dane-road"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 28,470.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-sale"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 28,490.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-brooklands"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 28,505.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-timperley"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 28,520.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-navigation-road"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 28,535.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-altrincham"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 59,443.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-withington"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 59,453.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-burton-road"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 59,463.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-west-didsbury"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 59,473.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-didsbury-village"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 59,483.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-east-didsbury"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 89.25,419.5 a 0.65,0.65 0 1 0 0.5,0 v -0.1 a 0.25,0.25 0 0 0 -0.5,0 z"
+       id="s-barlow-moor-road"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93.5,440.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-sale-water-park"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93.5,450.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-northern-moor"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93.5,460.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-wythenshawe-park"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93.5,470.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-moor-road"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93.5,480.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-baguley"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 93.5,490.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-roundthorn"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 79.25,510.5 a 0.65,0.65 0 1 0 -0.5,0 v 0.1 a 0.25,0.25 0 0 0 0.5,0 z"
+       id="s-martinscroft"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 64.75,509.5 a 0.65,0.65 0 1 0 0.5,0 v -0.1 a 0.25,0.25 0 0 0 -0.5,0 z"
+       id="s-benchill"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 54.5,520.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-crossacres"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 55.5,529.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-wythenshawe-town-centre"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 55.5,539.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-robinswood-road"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 54.5,550.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-peel-hall"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 55.5,559.75 a 0.65,0.65 0 1 0 0,0.5 h 0.1 a 0.25,0.25 0 0 0 0,-0.5 z"
+       id="s-shadowmoss"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 54.5,570.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.25,0.25 0 0 0 0,0.5 z"
+       id="s-manchester-airport"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 47,229.75 a 0.65,0.65 0 1 0 0,0.50001 h 0.1 a 0.65,0.65 0 0 0 1.2,0 h 0.1 a 0.250005,0.250005 0 0 0 0,-0.50001 h -0.1 a 0.65,0.65 0 0 0 -1.2,0 z"
+       id="d-shudehill"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 47,239.75 a 0.65,0.65 0 1 0 0,0.50001 h 0.1 a 0.65,0.65 0 0 0 1.2,0 h 0.1 a 0.250005,0.250005 0 0 0 0,-0.50001 h -0.1 a 0.65,0.65 0 0 0 -1.2,0 z"
+       id="d-market-street"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 83,348.25 a 0.65,0.65 0 1 0 0,-0.50001 h -0.1 a 0.65,0.65 0 0 0 -1.2,0 h -0.1 a 0.250005,0.250005 0 0 0 0,0.50001 h 0.1 a 0.65,0.65 0 0 0 1.2,0 z"
+       id="d-firswood"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+    <path
+       d="m 83,384.25 a 0.65,0.65 0 1 0 0,-0.5 h -0.1 a 0.65,0.65 0 0 0 -1.2,0 h -0.1 a 0.250005,0.250005 0 0 0 0,0.5 h 0.1 a 0.65,0.65 0 0 0 1.2,0 z"
+       id="d-chorlton"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1" />
+  </g>
+  <g
+     id="g15243"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-opacity:1">
+    <path
+       d="M 0,0 H 6 A 1,1 0 1 0 6,-2 H 0 a 1,1 0 1 0 0,2"
+       id="proto-link-7"
+       style="display:none" />
+    <path
+       d="m 46,221 h 4 a 1,1 0 1 0 0,-2 h -4 a 1,1 0 1 0 0,2"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-opacity:1"
+       id="l-victoria" />
+    <path
+       d="m 44,266 h 5 a 1,1 0 1 0 0,-2 h -5 a 1,1 0 1 0 0,2"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-opacity:1"
+       id="l-st-peters-square" />
+    <path
+       d="m 44,276 h 6 a 1,1 0 1 0 0,-2 h -6 a 1,1 0 1 0 0,2"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-opacity:1"
+       id="l-deansgate-castlefield" />
+    <path
+       d="m 44,286 h 6 a 1,1 0 1 0 0,-2 h -6 a 1,1 0 1 0 0,2"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-opacity:1"
+       id="l-cornbrook" />
+    <path
+       d="m 44,298 h 4 a 1,1 0 1 0 0,-2 h -4 a 1,1 0 1 0 0,2"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-opacity:1"
+       id="l-trafford-bar" />
+    <path
+       d="m 82,421 h 2.5 a 1,1 0 1 0 0,-2 H 82 a 1,1 0 1 0 0,2"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-opacity:1"
+       id="l-st-werburghs-road" />
+    <path
+       d="m 62,250 v 2 a 1,1 0 1 0 2,0 v -2 a 1,1 0 1 0 -2,0"
+       id="l-piccadilly-gardens"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-opacity:1" />
+    <path
+       d="m 77,250 v 2 a 1,1 0 1 0 1.999999,0 v -2 A 1,1 0 1 0 77,250"
+       id="l-piccadilly"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer2"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="99.5"
+       id="text282-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="99.5"
+         id="tspan284-3">Oldham</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="102.8399"
+         id="tspan480">Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="89.5"
+       id="text282-6-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="89.5"
+         id="tspan284-3-8">Oldham</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="92.839897"
+         id="tspan480-9">Mumps</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="69.5"
+       id="text282-6-7-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="69.5"
+         id="tspan480-9-2">Shaw and</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="72.839897"
+         id="tspan2191">Crompton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="39.5"
+       id="text282-6-7-9-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="39.5"
+         id="tspan2191-0">Kingsway</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="42.839901"
+         id="tspan2288">Business Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="19.5"
+       id="text282-6-7-9-0-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="19.5"
+         id="tspan2288-5">Rochdale</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="22.839901"
+         id="tspan2593">Railway Station</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="9.5"
+       id="text282-6-7-9-0-6-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="9.5"
+         id="tspan2288-5-6">Rochdale</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="12.839901"
+         id="tspan2593-8">Town Centre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="98"
+       id="text282-6-1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="98"
+         id="tspan480-8">Ashton-</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="101.3399"
+         id="tspan550">under-Lyne</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="31"
+       y="101.5"
+       id="text282-6-1-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="101.5"
+         id="tspan550-3">Besses o'</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="104.8399"
+         id="tspan2996">th' Barn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="31"
+       y="146.5"
+       id="text282-6-1-0-1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="146.5"
+         id="tspan2996-1">Heaton</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="149.8399"
+         id="tspan3059">Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="31"
+       y="194"
+       id="text282-6-1-0-1-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="194"
+         id="tspan3059-5">Abraham</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="197.3399"
+         id="tspan3192">Moss</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="31"
+       y="207.5"
+       id="text282-6-1-0-1-3-2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="207.5"
+         id="tspan3192-6">Queen's</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="210.8399"
+         id="tspan3228">Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="27"
+       y="239"
+       id="text282-6-1-0-1-3-2-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="27"
+         y="239"
+         id="tspan3228-5">Exchange</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="27"
+         y="242.3399"
+         id="tspan3264">Square</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="439.5"
+       id="text282-6-1-0-1-3-2-4-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="439.5"
+         id="tspan3264-4">Sale Water</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="442.8399"
+         id="tspan5430">Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="449.5"
+       id="text282-6-1-0-1-3-2-4-4-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="449.5"
+         id="tspan5430-3">Northern</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="452.8399"
+         id="tspan5470">Moor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="459.5"
+       id="text282-6-1-0-1-3-2-4-4-7-1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="459.5"
+         id="tspan5470-9">Wythenshawe</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="462.8399"
+         id="tspan5506">Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="469.5"
+       id="text282-6-1-0-1-3-2-4-4-7-1-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="469.5"
+         id="tspan5506-8">Moor</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="472.8399"
+         id="tspan5542">Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="45"
+       y="449.5"
+       id="text282-6-1-0-1-3-2-4-4-7-1-6-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="45"
+         y="449.5"
+         id="tspan5506-8-0">Dane</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="45"
+         y="452.8399"
+         id="tspan5542-96">Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="26"
+       y="519.5"
+       id="text282-6-1-0-1-3-2-4-4-7-1-6-3-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="26"
+         y="519.5"
+         id="tspan5542-96-4">Navigation</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="26"
+         y="522.8399"
+         id="tspan6060">Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="53"
+       y="549.5"
+       id="text282-6-1-0-1-3-2-4-4-7-1-6-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="53"
+         y="549.5"
+         id="tspan5542-9">Peel</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="53"
+         y="552.8399"
+         id="tspan5826">Hall</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="53"
+       y="569.5"
+       id="text282-6-1-0-1-3-2-4-4-7-1-6-9-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="53"
+         y="569.5"
+         id="tspan5826-8">Manchester</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="53"
+         y="572.8399"
+         id="tspan5889">Airport</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="37"
+       y="355"
+       id="text282-6-1-0-1-3-2-4-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="37"
+         y="355"
+         id="tspan3264-8">Imperial War</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="37"
+         y="358.3399"
+         id="tspan4371">Museum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="23"
+       y="298"
+       id="text282-6-1-0-1-3-2-4-5-1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="23"
+         y="298"
+         id="tspan4371-9">Pomona</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="80"
+       y="349"
+       id="text282-6-1-0-1-3-2-4-5-1-62"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="80"
+         y="349"
+         id="tspan4371-9-7">Firswood</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="80"
+       y="385"
+       id="text282-6-1-0-1-3-2-4-5-1-62-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="80"
+         y="385"
+         id="tspan4371-9-7-9">Chorlton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="481"
+       id="text282-6-1-0-1-3-2-4-5-1-62-9-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="481"
+         id="tspan4371-9-7-9-6">Baguley</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="26"
+       y="471"
+       id="text282-6-1-0-1-3-2-4-5-1-62-9-5-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="26"
+         y="471"
+         id="tspan4371-9-7-9-6-6">Sale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="26"
+       y="536"
+       id="text282-6-1-0-1-3-2-4-5-1-62-9-5-8-43"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="26"
+         y="536"
+         id="tspan4371-9-7-9-6-6-0">Altrincham</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="26"
+       y="506"
+       id="text282-6-1-0-1-3-2-4-5-1-62-9-5-8-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="26"
+         y="506"
+         id="tspan4371-9-7-9-6-6-3">Timperley</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.0827592"
+       id="rect792-2-3-3-9-9"
+       width="15.5"
+       height="3.5"
+       x="11"
+       y="488.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="26"
+       y="491"
+       id="text282-6-1-0-1-3-2-4-5-1-62-9-5-8-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="26"
+         y="491"
+         id="tspan4371-9-7-9-6-6-1">Brooklands</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="53"
+       y="521"
+       id="text282-6-1-0-1-3-2-4-5-1-62-9-5-1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="53"
+         y="521"
+         id="tspan4371-9-7-9-6-7">Crossacres</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.0827592"
+       id="rect792-2-3-3-9"
+       width="16.5"
+       height="3.5"
+       x="76"
+       y="488.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="491"
+       id="text282-6-1-0-1-3-2-4-5-1-62-9-5-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="491"
+         id="tspan4371-9-7-9-6-9">Roundthorn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="37"
+       y="325"
+       id="text282-6-1-0-1-3-2-4-5-1-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="37"
+         y="325"
+         id="tspan4371-9-1">Wharfside</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="37"
+       y="389"
+       id="text282-6-1-0-1-3-2-4-5-1-6-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="37"
+         y="389"
+         id="tspan4371-9-1-8">Village</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.0827592"
+       id="rect792-2-3-3"
+       width="12"
+       height="3.5"
+       x="25.5"
+       y="418.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="37"
+       y="421"
+       id="text282-6-1-0-1-3-2-4-5-1-6-3-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="37"
+         y="421"
+         id="tspan4371-9-1-8-3">Parkway</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="42"
+       y="264"
+       id="text282-6-1-0-1-3-2-4-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="42"
+         y="264"
+         id="tspan3264-7">St Peter's</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="42"
+         y="267.3399"
+         id="tspan3548">Square</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.0827592"
+       id="rect792-2-3"
+       width="10.5"
+       height="7"
+       x="21"
+       y="166.25" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="31"
+       y="169"
+       id="text282-6-1-0-1-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="169"
+         id="tspan3059-1">Bowker</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="172.3399"
+         id="tspan3118">Vale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="109"
+       id="text282-6-1-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="109"
+         id="tspan480-8-2">Ashton</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="112.3399"
+         id="tspan550-2">West</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="121"
+       id="text282-6-1-9-1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="121"
+         id="tspan480-8-2-7">Ashton</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="124.3399"
+         id="tspan550-2-4">Moss</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="157"
+       id="text282-6-1-9-1-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="157"
+         id="tspan550-2-4-5">Cemetery</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="160.3399"
+         id="tspan702">Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="179"
+       id="text282-6-1-9-1-7-1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="179"
+         id="tspan702-4">Clayton</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="182.3399"
+         id="tspan942">Hall</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="109.5"
+       id="text282-6-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="109.5"
+         id="tspan284-3-1">Oldham</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="112.8399"
+         id="tspan480-4">King Street</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="135"
+       id="text282-6-1-9-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="135"
+         id="tspan550-2-0">Audenshaw</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="31"
+       y="126"
+       id="text282-6-1-9-6-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="126"
+         id="tspan550-2-0-6">Prestwich</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="31"
+       y="183.5"
+       id="text282-6-1-9-6-7-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="183.5"
+         id="tspan550-2-0-6-0">Crumpsall</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="31"
+       y="36"
+       id="text282-6-1-9-6-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="36"
+         id="tspan550-2-0-4">Bury</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="31"
+       y="58.5"
+       id="text282-6-1-9-6-5-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="58.5"
+         id="tspan550-2-0-4-9">Radcliffe</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.0827592"
+       id="rect792-2-2-3"
+       width="15"
+       height="3.5"
+       x="17"
+       y="78.25" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="31"
+       y="81"
+       id="text282-6-1-9-6-5-3-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="31"
+         y="81"
+         id="tspan550-2-0-4-9-2">Whitefield</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="147"
+       id="text282-6-1-9-6-2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="147"
+         id="tspan550-2-0-7">Droylsden</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.0827592"
+       id="rect792"
+       width="7"
+       height="7"
+       x="85.400002"
+       y="166.25" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="169"
+       id="text282-6-1-9-1-7-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="169"
+         id="tspan702-8">Edge</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="172.3399"
+         id="tspan738">Lane</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.0827592"
+       id="rect792-2"
+       width="20"
+       height="7"
+       x="51.5"
+       y="166.25" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.0827592"
+       id="rect792-2-34"
+       width="15"
+       height="3"
+       x="51.5"
+       y="283.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="169"
+       id="text282-6-1-9-1-7-3-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="169"
+         id="tspan738-0">Newton Heath</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="172.3399"
+         id="tspan1357">and Moston</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.0827592"
+       id="rect792-2-2"
+       width="10"
+       height="3.5"
+       x="51.5"
+       y="78.25" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="81"
+       id="text282-6-1-9-1-7-3-8-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="81"
+         id="tspan1357-7">Derker</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="191"
+       id="text282-6-1-9-6-2-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="191"
+         id="tspan550-2-0-7-6">Velopark</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="199"
+       id="text282-6-1-9-1-7-1-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="199"
+         id="tspan942-4">Etihad</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="202.3399"
+         id="tspan1016">Campus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="209"
+       id="text282-6-1-9-1-7-1-8-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="209"
+         id="tspan1016-4">Holt</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="212.3399"
+         id="tspan1052">Town</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="92"
+       y="230"
+       id="text282-6-1-9-1-7-1-8-5-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="230"
+         id="tspan1052-0">New</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="92"
+         y="233.3399"
+         id="tspan1088">Islington</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:center;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.25"
+       x="78"
+       y="256"
+       id="text282-6-1-9-1-7-1-8-5-5-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.25"
+         x="78"
+         y="256"
+         id="tspan1088-2">Piccadilly</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:center;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.25"
+       x="79"
+       y="514"
+       id="text282-6-1-9-1-7-1-8-5-5-9-90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.25"
+         x="79"
+         y="514"
+         id="tspan1088-2-7">Martinscroft</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:center;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.25"
+       x="65"
+       y="508"
+       id="text282-6-1-9-1-7-1-8-5-5-9-90-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.25"
+         x="65"
+         y="508"
+         id="tspan1088-2-7-7">Benchill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:center;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.25"
+       x="63"
+       y="256"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.25"
+         x="63"
+         y="256"
+         id="tspan1088-2-2">Piccadilly</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.25"
+         x="63"
+         y="259.3399"
+         id="tspan1151">Gardens</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="50"
+       y="239.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="50"
+         y="239.5"
+         id="tspan1151-2">Market</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="50"
+         y="242.8399"
+         id="tspan1187">Street</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="274.25"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="274.25"
+         id="tspan1187-7">Deansgate-</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="277.5899"
+         id="tspan3584">Castlefield</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="50"
+       y="296.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="50"
+         y="296.5"
+         id="tspan3584-9">Trafford</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="50"
+         y="299.8399"
+         id="tspan3676">Bar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="7"
+       y="321.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="7"
+         y="321.5"
+         id="tspan3676-8">Exchange</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="7"
+         y="324.8399"
+         id="tspan3972">Quay</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="61"
+       y="453.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6-4-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="61"
+         y="453.5"
+         id="tspan3972-5">Burton</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="61"
+         y="456.8399"
+         id="tspan5306">Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="11"
+       y="444.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6-4-9-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="11"
+         y="444.5"
+         id="tspan5306-0">Barton</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="11"
+         y="447.8399"
+         id="tspan6123">Dock Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="11"
+       y="459.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6-4-9-5-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="11"
+         y="459.5"
+         id="tspan6123-2">The Trafford</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="11"
+         y="462.8399"
+         id="tspan6159">Centre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="61"
+       y="463.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6-4-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="61"
+         y="463.5"
+         id="tspan3972-3">West</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="61"
+         y="466.8399"
+         id="tspan5337">Didsbury</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="57"
+       y="529.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6-4-8-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="57"
+         y="529.5"
+         id="tspan5337-55">Wythenshawe</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="57"
+         y="532.8399"
+         id="tspan5754">Town Centre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="57"
+       y="539.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6-4-8-7-2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="57"
+         y="539.5"
+         id="tspan5754-6">Robinswood</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="57"
+         y="542.8399"
+         id="tspan5790">Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="61"
+       y="483.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6-4-8-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="61"
+         y="483.5"
+         id="tspan3972-3-4">East</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="61"
+         y="486.8399"
+         id="tspan5337-6">Didsbury</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="61"
+       y="473.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6-4-8-2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="61"
+         y="473.5"
+         id="tspan5337-5">Didsbury</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="61"
+         y="476.8399"
+         id="tspan5373">Village</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="50"
+       y="366.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6-4-2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="50"
+         y="366.5"
+         id="tspan3972-7">Old</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="50"
+         y="369.8399"
+         id="tspan4701">Trafford</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.0827592"
+       id="rect792-2-3-3-5-5-8"
+       width="14.5"
+       height="6.5"
+       x="85"
+       y="412" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="85"
+       y="414.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6-4-2-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="85"
+         y="414.5"
+         id="tspan4701-2">Barlow</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="85"
+         y="417.8399"
+         id="tspan5200">Moor Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="7"
+       y="331.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6-4-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="7"
+         y="331.5"
+         id="tspan3676-8-5">Salford</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="7"
+         y="334.8399"
+         id="tspan3972-2">Quays</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="7"
+       y="351.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-6-4-0-1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="7"
+         y="351.5"
+         id="tspan3972-2-4">Harbour</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="7"
+         y="354.8399"
+         id="tspan4335">City</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="286"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-78-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="286"
+         id="tspan3584-1">Cornbrook</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="50"
+       y="231"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="50"
+         y="231"
+         id="tspan1187-8">Shudehill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="7"
+       y="343"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="7"
+         y="343"
+         id="tspan1187-8-0">Anchorage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="7"
+       y="373"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-7-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="7"
+         y="373"
+         id="tspan1187-8-0-9">Broadway</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="7"
+       y="403"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-7-3-60"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="7"
+         y="403"
+         id="tspan1187-8-0-9-34">Ladywell</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="7"
+       y="383"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-7-3-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="7"
+         y="383"
+         id="tspan1187-8-0-9-3">Langworthy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="7"
+       y="393"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-7-3-6-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="7"
+         y="393"
+         id="tspan1187-8-0-9-3-1">Weaste</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="15"
+       y="362.82291"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-7-2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="15"
+         y="362.82291"
+         id="tspan1187-8-0-4">MediaCityUK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="61"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-22"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="61"
+         id="tspan1187-8-1">Newhey</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="31"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-22-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="31"
+         id="tspan1187-8-1-9">Newbold</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="51"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-22-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="51"
+         id="tspan1187-8-1-6">Milnrow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="221"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="221"
+         id="tspan1187-8-4">Victoria</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="205"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-2-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="205"
+         id="tspan1187-8-4-1">Monsall</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="161"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-2-8-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="161"
+         id="tspan1187-8-4-1-3">Failsworth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="151"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-2-8-5-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="151"
+         id="tspan1187-8-4-1-3-3">Hollinwood</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="131"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-2-8-5-5-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="131"
+         id="tspan1187-8-4-1-3-3-8">Freehold</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="121"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-2-8-5-5-9-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="121"
+         id="tspan1187-8-4-1-3-3-8-0">Westwood</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="186.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="186.5"
+         id="tspan1187-5">Central</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="189.8399"
+         id="tspan1311">Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="52"
+       y="139.5"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-5-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="139.5"
+         id="tspan1311-7">South</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="52"
+         y="142.8399"
+         id="tspan2012">Chadderton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="7"
+       y="413"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-7-3-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="7"
+         y="413"
+         id="tspan1187-8-0-9-9">Eccles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="61"
+       y="445"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-7-3-8-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="61"
+         y="445"
+         id="tspan1187-8-0-9-9-90">Withington</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="57"
+       y="561"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-7-3-8-9-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="57"
+         y="561"
+         id="tspan1187-8-0-9-9-90-5">Shadowmoss</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.0827592"
+       id="rect792-2-3-3-5"
+       width="13"
+       height="3.5"
+       x="49.5"
+       y="418.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:start;text-anchor:start;display:inline;fill:#000000;stroke-width:0.25"
+       x="50"
+       y="421"
+       id="text282-6-1-9-1-7-1-8-5-5-9-9-3-7-7-3-8-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.25"
+         x="50"
+         y="421"
+         id="tspan1187-8-0-9-9-9">Stretford</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.0827592"
+       id="rect792-2-3-3-5-5"
+       width="16"
+       height="10"
+       x="64.5"
+       y="415" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.66667px;text-align:end;text-anchor:end;display:inline;fill:#000000;stroke-width:0.25"
+       x="80"
+       y="417.5"
+       id="text282-6-1-0-1-3-2-4-7-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="80"
+         y="417.5"
+         id="tspan3264-7-9">St</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="80"
+         y="420.8399"
+         id="tspan5133">Werburgh's</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.66667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.25"
+         x="80"
+         y="424.17981"
+         id="tspan3548-4">Road</tspan></text>
+  </g>
+</svg>
