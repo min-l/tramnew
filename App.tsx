@@ -12,6 +12,7 @@ import { TouchableWithoutFeedback } from 'react-native';
 //import { err } from 'react-native-svg/lib/typescript/xml';
 
 const map = require('./coords.json');
+const start_time = new Date().getTime();
 
 type Tram = {
   departed: string,
@@ -49,6 +50,18 @@ function touchTram() {
 }
   */
 
+const invalidNotice = ["END OF SERVICE", "TravelSafe"];
+
+function invalidFilter(notice:string) {
+  let found = true;
+  invalidNotice.forEach(invalid => {
+    if (notice.includes(invalid)) {
+      found = false;
+    }
+  });
+  return found;
+}
+
 function getLength(path: Array<string>) {
   let rLength = 0;
   path.forEach(segment => {
@@ -68,6 +81,7 @@ function getLength(path: Array<string>) {
   return rLength;
 }
 
+
 function getColour(c:boolean){
   switch(c) {
     case true:
@@ -80,7 +94,11 @@ function getColour(c:boolean){
 function getText(c:boolean) {
   switch(c) {
     case true:
-      return 'Connected';
+      if (new Date().getTime() < (start_time + 7000)) {
+        return 'Tap here to expand notices and licence';
+      } else {
+        return 'Connected';
+      }
     case false:
       return 'Can\'t connect to server.';
   }
@@ -201,6 +219,7 @@ const App = () => {
   const [trams, setTrams] = useState([]);
   const [connected, setConnected] = useState(true);
   const [notices, setNotices] = useState([]);
+  const [expandNotice, setExpandNotice] = useState(true);
   useEffect(() => {
     setInterval(() => {
       fetch('http://tram.mintyasleep.net:3000/active')
@@ -218,7 +237,8 @@ const App = () => {
       fetch('http://tram.mintyasleep.net:3000/notice')
       .then((res) => res.json())
       .then((data) => {
-        setNotices(data);
+        //setNotices(data.filter((notice:string) => !notice.includes("END OF SERVICE") && !notice.includes("TravelSafe")));
+        setNotices(data.filter(invalidFilter));
         console.log('notice fetched successfully')
       }) 
       .catch((err) => {
@@ -229,18 +249,26 @@ const App = () => {
   }, []);
 
 
+  const expand = () => {
+    setExpandNotice(!expandNotice)
+  }
+
   return (
     <SafeAreaProvider style={{backgroundColor: "#000000"}}>
     <SafeAreaView edges={["top","left","right"]} style={{backgroundColor: '#000'}}>
+      <TouchableWithoutFeedback onPress={expand}>
       <GestureHandlerRootView style={{
-        backgroundColor: getColour(connected),
+        backgroundColor: expandNotice ? getColour(connected) : "black",
         width: '100%',
         //height: 20
-        height:40
+        height: (expandNotice ? 40 : '100%')
       }}>
+        
         <Text style={{textAlign: 'center',color:"#f0f0f0"}}>{getText(connected)}</Text>
-        <Marquee spacing={20} speed={0.5} withGesture={true}><Text style={{textAlign: 'center',color:"#f0f0f0"}}>{notices.map(x => x + " // ")}</Text></Marquee>
+        <Marquee spacing={20} speed={0.5} withGesture={true} style={{display: expandNotice ? undefined : 'none'}}><Text style={{textAlign: 'center',color:"#f0f0f0"}}>{notices.map(x => x + " // ")}</Text></Marquee>
+        <Text style={{textAlign: 'center',color:"#f0f0f0",display:!expandNotice ? undefined : 'none'}}>{(notices.map(x => "\n" + x + "\n")).join("") + "\n--\n\ntramapp by mintyasleep\ncontact: alicja.work@protonmail.com\n\nContains public sector information licensed under the Open Government Licence v3.0."}</Text>
       </GestureHandlerRootView>
+      </TouchableWithoutFeedback>
       <ScrollView style={{backgroundColor: "#FFF"}}>
         {/*<Text style={{color:'#000000'}}>{windowDimensions.height},{windowDimensions.width},{windowDimensions.scale}</Text>*/}
         <Mapsvg width={windowDimensions.width} height={windowDimensions.width*6}/>
