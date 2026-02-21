@@ -80,38 +80,38 @@
         "Piccadilly":["m93.5 231","v16","d-5 5","h-10.5"]
     },
     "Piccadilly":{
-        "Piccadilly Gardens":["m78 251","h-15"]
+        "Piccadilly Gardens":["m78 252","h-15"]
     },
     "Piccadilly Gardens":{
         "Piccadilly":["m63 250","h15"],
-        "St Peter's Square":["m63 251.5","h-10","r-4.5 4.5","v9"]
+        "St Peter's Square":["m63 252","h-10","r-4 4","v9"]
     },
     "St Peter's Square":{
-        "Deansgate - Castlefield":["m46.5 265","v10"]
+        "Deansgate - Castlefield":["m47 265","v10"]
     },
     "Deansgate - Castlefield":{
         "Cornbrook":["m47 275","v10"]
     },
     "Cornbrook":{
-        "Pomona":["m49.5 285","d-4.5 4.5","h-15","r-4.5 4.5","v3"],
+        "Pomona":["m50 285","d-5 5","h-15","r-4 4","v3"],
         "Trafford Bar":["m46 285","v12"]
     },
     "Pomona":{
-        "Exchange Quay":["m25 297","v5","d-5 5","h-10","r-5 5","v10"],
-        "Wharfside":["m26 297","v5","d5 5","h3","r5 5","v12"]
+        "Exchange Quay":["m25.5 297","v5","d-5.5 5.5","h-10","r-4.5 4.5","v10"],
+        "Wharfside":["m27 297","v5","d5 5","h3","r5 5","v12"]
     },
     "Exchange Quay":{
-        "Salford Quays":["m5 322","v10"]
+        "Salford Quays":["m5.5 322","v10"]
     },
     "Salford Quays":{
-        "Anchorage":["m5 332","v10"]
+        "Anchorage":["m5.5 332","v10"]
     },
     "Anchorage":{
-        "Harbour City":["m5 342","v10"]
+        "Harbour City":["m5.5 342","v10"]
     },
     "Harbour City":{
         "Broadway":["m5 352","v20"],
-        "MediaCityUK":["m5 352","v5","d5 5","h3"]
+        "MediaCityUK":["m5.5 352","v5","d4.5 4.5","h3"]
     },
     "MediaCityUK":{
         "Broadway":["m13 362","h-3","r-5 5","v5"]
@@ -129,16 +129,16 @@
         "Eccles":["m5 402","v10"]
     },
     "Wharfside":{
-        "Imperial War Museum":["m39 324","v32"]
+        "Imperial War Museum":["m40 324","v32"]
     },
     "Imperial War Museum":{
-        "Village":["m39 356","v32"]
+        "Village":["m40 356","v32"]
     },
     "Village":{
-        "Parkway":["m39 388","v32"]
+        "Parkway":["m40 388","v32"]
     },
     "Parkway":{
-        "Barton Dock Road":["m39 420","v5","d-5 5","h-20","r-5 5","v10"]
+        "Barton Dock Road":["m40 420","v5","d-5 5","h-20","r-5 5","v10"]
     },
     "Barton Dock Road":{
         "The Trafford Centre":["m9 445","v15"]
