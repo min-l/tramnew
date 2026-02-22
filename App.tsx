@@ -279,8 +279,16 @@ const App = () => {
   }
 
   const showStationInformation = () => {
-    if (Object.keys(stationInformation).length == 4) {
-      return <View></View>
+    let directions = Object.keys(stationInformation);
+    if (directions.length == 4) {
+      let sortedUpcoming = stationInformation[directions[0]].concat(stationInformation[directions[1]]).concat(stationInformation[directions[2]]).concat(stationInformation[directions[3]]);
+      sortedUpcoming.sort((a:any, b:any) => parseFloat(a.Wait) - parseFloat(b.Wait));
+      console.log(sortedUpcoming);
+
+      return sortedUpcoming.map((this_tram:any,index:number) => <View key={index} style={{borderColor:"white",borderWidth:2}}>
+      <View style={{flex:1,alignSelf:"stretch",flexDirection:"row"}}><View style={{flex:2,alignSelf:"stretch"}}><Text style={{color:"white"}}>{this_tram.Dest}</Text></View><View style={{flex:1,alignSelf:"stretch"}}><Text style={{color:"white",textAlign:"right"}}>{this_tram.Wait}</Text></View></View>
+      <View style={{flex:1,alignSelf:"stretch",flexDirection:"row"}}><View style={{flex:2,alignSelf:"stretch"}}><Text style={{color:"white"}}>{this_tram.Carriages}</Text></View><View style={{flex:1,alignSelf:"stretch"}}><Text style={{color:"white",textAlign:"right"}}>{this_tram.Status}</Text></View></View>
+      </View>);
     } else {
       return <View></View>
     }
@@ -313,7 +321,7 @@ const App = () => {
         fetch('http://tram.mintyasleep.net:3000/stations/' + stationTapped.replaceAll(" ","_"))
         .then((res) => res.json())
         .then((data) => {
-          console.log(data);
+          //console.log(data);
           setStationInformation(data);
         }) 
         .catch((err) => {
@@ -348,9 +356,11 @@ const App = () => {
         {/*<Text style={{color:'black'}}>{JSON.stringify(trams)}</Text>*/}
       </ScrollView>
       <ScrollView style={{display:viewingStation != "" ? undefined : 'none'}} onTouchEnd={closeStation}>
+        <Text style={{color:"white", textAlign:"center" }}>{viewingStation}</Text>
         {showStationInformation()}
+
         <Text style={{color:"white"}}>
-          {JSON.stringify(stationInformation)}
+          {/*JSON.stringify(stationInformation)*/}
         </Text>
       </ScrollView>
     </SafeAreaView>
